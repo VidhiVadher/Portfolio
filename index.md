@@ -8,26 +8,24 @@ Welcome to my online portfolio powered by Obsidian + GitHub Pages!
 
 - [Resume](Vidhi_Resume.md)
 
-## 📁 Projects
-
-- [Autonomous Vehicle Monitoring System](Projects/Autonomous_Vehicle_Monitoring_System.md)
--  [Automatic Number Plate Detection System](Projects/Automatic_Number_Plate_Detection_System.md)
-- [IoT Weather Monitoring System](Projects/IoT_Weather_Monitoring_System.md)
-- [Heartbeat Monitoring System](Projects/Heartbeat_Monitoring_System.md)
-- [Smart Room Control System](Projects/Smart_Room_Control_System.md)
-
-
-
 ---
 
 ## 🧠 About Me
 
-Experienced Embedded Firmware Engineer with 3+ years of experience in STM32, IoT systems, FreeRTOS, and protocol-level development.
+I'm an embedded systems enthusiast who thrives on exploring the inner workings of microcontrollers, microprocessors, and the low-level logic that drives real-world electronics. Whether it's designing a custom chip layout, troubleshooting a tricky bus conflict, or squeezing performance out of limited firmware — I find joy in the challenge.
+Having an experience of 4+ years in embedded industry,  I've worked on a variety of hands-on projects that span embedded firmware development, signal processing, system simulation, and  product design. 
+
+ A quote that I live by - 
+
+`"If you can't explain it simply, you don't understand it well enough."`
 
 ---
 
+
 ## 📁 Projects
 
-- [Automotive Controller Porting](Projects/Automotive_Controller_Porting.md)
+- [Autonomous Vehicle Monitoring System](Projects/Autonomous_Vehicle_Monitoring_System.md)
 - [IoT Weather Monitoring System](Projects/IoT_Weather_Monitoring_System.md)
-- [BLE RTC Feature Enhancement](Projects/BLE_RTC_Feature_Enhancement.md)
+-  [Gujrati Character Recognition System](Projects/Gujrati_Character_Recognition_System.md)
+- [Heartbeat Monitoring System](Projects/Heartbeat_Monitoring_System.md)
+- [Smart Room Control System](Projects/Smart_Room_Control_System.md)
