@@ -25,7 +25,5 @@ Having an experience of 4+ years in embedded industry,  I've worked on a variety
 ## 📁 Projects
 
 - [Autonomous Vehicle Monitoring System](Projects/Autonomous_Vehicle_Monitoring_System.md)
-- [IoT Weather Monitoring System](Projects/IoT_Weather_Monitoring_System.md)
 -  [Gujrati Character Recognition System](Projects/Gujrati_Character_Recognition_System.md)
 - [Heartbeat Monitoring System](Projects/Heartbeat_Monitoring_System.md)
-- [Smart Room Control System](Projects/Smart_Room_Control_System.md)
