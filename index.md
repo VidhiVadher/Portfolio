@@ -7,7 +7,7 @@ Welcome to my online portfolio powered by Obsidian + GitHub Pages!
 ## 🔗 Contents
 
 - [Resume](Vidhi_Resume.md)
-- [Projects](#projects)
+- [Projects](#Projects)
 
 ---
 

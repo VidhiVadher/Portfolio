@@ -31,6 +31,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Explored the Kneron's NPU module to learn the mechanism for running the AI inference model for automatic number plate detection algorithm.
 
 
+
+
 ### 🔹 Embedded Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
 📆 Jun 2023 – July 2024 
@@ -43,6 +45,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Working as an independent developer to integrate/port the existing code from one product model to an upgraded product model having various peripheral changes. 
 
 
+
+
 ### 🔹 Embedded Associate Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
 📆 Jan 2022 – Jul 2023  
@@ -51,6 +55,7 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Gathered data from field tests and reports to troubleshoot the runtime technical issues in the on-field deployed devices. Documented changes made during the development process of new products.
 - Developed data reception mechanism over CAN, UART, and SPI  serial  interfaces  using  J1939,  RS235  protocols  as  well  as wireless protocols like BLE and Wi-Fi.
 - Improved the product’s RTC feature by enabling various security mechanisms in STM32 FreeRTOS.
+
 
 
 ### 🔹 Embedded Trainee Engineer - **Volansys Technologies ( An ACL Digital Company )**    
@@ -64,11 +69,13 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Presented research findings and project updates clearly and concisely to the larger team members. 
 
 
+
 ### 🔹 Embedded Firmware Intern - **Volansys Technologies ( An ACL Digital Company )**    
 
 📆 Jan 2021 – Jul 2021  
 
 - As a part of a training program, gained the in-depth knowledge on Data Structures and algorithms, Socket Programming, FreeRTOS, Linux OS etc.
+
 
 
 
@@ -95,6 +102,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 - Event Organizer & Content Writer
 
+
+
 ### **Higher Secondary**  
 
 📍 Vidhyadhish VidhyaSankul (2015 – 2017)  
@@ -102,6 +111,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Percentage: 85%  
 
 - Qualified JEE Mains & Advanced  
+
+
 
 ### **Primary**  
 
@@ -116,6 +127,7 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 ## 🧰 Technical Expertise
 
+
 ### 🔧 Hardware Platforms  
 
 - STM32L4xx (Automotive apps)  
@@ -128,6 +140,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 - Arduino (IoT prototyping)
 
+
+
 ### 📡 Protocols  
 
 - Ethernet, Wi-Fi, MQTT, TCP/IP  
@@ -135,6 +149,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - BLE Stack  
 
 - I2C, SPI, UART, J1939 (CAN)
+
+
 
 ### 🧪 Tools & Software  
 
@@ -145,6 +161,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - VS Code, Vi Editor, Meld  
 
 - Wireshark, Tcpdump, ST-Link, J-Link  
+
+
 
 ### 🧑‍💻 Programming Languages  
 
