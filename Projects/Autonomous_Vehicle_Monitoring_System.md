@@ -6,7 +6,7 @@ An intelligent embedded system designed to monitor and report the real-time heal
 
 ## 🛠️ Technologies Used
 
-- MCU / Platform : STM32L4, i.mx7.
+- MCU / Platform : STM32L4, imx7.
 - Sensors : Accelerometer , GPS, TPMS Pressure sensors , Temperature & Humidity sensors, Weight sensors 
 - Communication : BLE, CAN, UART, I2C, SPI, MQTT, Wi-Fi, Ethernet, LTE
 - OS/Framework : FreeRTOS, YOCTO, Linux
