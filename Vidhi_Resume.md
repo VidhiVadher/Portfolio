@@ -20,6 +20,7 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 ## 💼 Work Experience
 
+
 ### 🔹 Embedded Engineer — **Matrix Comsec PVT.  LTD.**  
 
 📆 Aug 2024 – Present  
@@ -28,7 +29,9 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Prepared script for fetching vulnerabilities of defined list of packages from NVD [ National Vulnerability Database]
 - Establish the Kneron EVK setup and did R & D on its multimedia framework. Developed custom application from the same to have 4 simultaneous stream on VLC.
 - Explored the Kneron's NPU module to learn the mechanism for running the AI inference model for automatic number plate detection algorithm.
-### 🔹 Embedded Engineer — **Volansys Technologies ( An ACL Digital Company )**  
+
+
+### 🔹 Embedded Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
 📆 Jun 2023 – July 2024 
 
@@ -39,7 +42,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Analyzed user needs and software requirements to determine feasibility of design within time and cost constraints & prepared documents for the same.
 - Working as an independent developer to integrate/port the existing code from one product model to an upgraded product model having various peripheral changes. 
 
-### 🔹 Embedded Associate Engineer — **Volansys Technologies ( An ACL Digital Company )**  
+
+### 🔹 Embedded Associate Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
 📆 Jan 2022 – Jul 2023  
 
@@ -48,7 +52,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Developed data reception mechanism over CAN, UART, and SPI  serial  interfaces  using  J1939,  RS235  protocols  as  well  as wireless protocols like BLE and Wi-Fi.
 - Improved the product’s RTC feature by enabling various security mechanisms in STM32 FreeRTOS.
 
-### 🔹 Embedded Trainee Engineer — **Volansys Technologies ( An ACL Digital Company )**    
+
+### 🔹 Embedded Trainee Engineer - **Volansys Technologies ( An ACL Digital Company )**    
 
 📆 Jul 2021 – Jan 2022  
 
@@ -57,13 +62,17 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Gained practical experience with relevant software and technology like version control system and project management tools.
 - Collaborated effectively with team of trainees for knowledge sharing activities.
 - Presented research findings and project updates clearly and concisely to the larger team members. 
-### 🔹 Embedded Firmware Intern — **Volansys Technologies ( An ACL Digital Company )**    
+
+
+### 🔹 Embedded Firmware Intern - **Volansys Technologies ( An ACL Digital Company )**    
 
 📆 Jan 2021 – Jul 2021  
 
 - As a part of a training program, gained the in-depth knowledge on Data Structures and algorithms, Socket Programming, FreeRTOS, Linux OS etc.
 
-### 🔹 Research & Summer Intern — **eInfochips ( An Arrow Company )**  
+
+
+### 🔹 Research & Summer Intern - **eInfochips ( An Arrow Company )**  
 
 📆 Jun 2020 – Jul 2020  
 
@@ -73,10 +82,10 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 ---
 
+
 ## 🎓 Education
 
-
-**B.Tech – Electronics & Communication**  
+### **B.Tech – Electronics & Communication**  
 
 📍 Dharmsinh Desai University (2017 – 2021)  
 
@@ -86,7 +95,7 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 - Event Organizer & Content Writer
 
-**Higher Secondary**  
+### **Higher Secondary**  
 
 📍 Vidhyadhish VidhyaSankul (2015 – 2017)  
 
@@ -94,7 +103,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 - Qualified JEE Mains & Advanced  
 
-**Primary**  
+### **Primary**  
+
 
 📍 B.M Commerce High School (2005 – 2015)  
 
