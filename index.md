@@ -2,7 +2,7 @@
 # 👩‍💼 Vidhi Vadher  
 **Embedded Firmware Engineer**
 
-Welcome to my online portfolio powered by Obsidian + GitHub Pages!
+Welcome to my online portfolio!!
 
 ## 🔗 Contents
 
@@ -25,5 +25,5 @@ Having an experience of 4+ years in embedded industry,  I've worked on a variety
 ## 📁 Projects
 
 - [Autonomous Vehicle Monitoring System](Projects/Autonomous_Vehicle_Monitoring_System.md)
--  [Gujrati Character Recognition System](Projects/Gujrati_Character_Recognition_System.md)
+- [Gujrati Character Recognition System](Projects/Gujrati_Character_Recognition_System.md)
 - [Heartbeat Monitoring System](Projects/Heartbeat_Monitoring_System.md)

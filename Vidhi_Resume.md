@@ -25,13 +25,10 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 
 📆 Aug 2024 – Present  
 
-- Performed code-clean up and warning removal to improve code stability and modularity.
-- Prepared script for fetching vulnerabilities of defined list of packages from NVD [ National Vulnerability Database]
-- Establish the Kneron EVK setup and did R & D on its multimedia framework. Developed custom application from the same to have 4 simultaneous stream on VLC.
-- Explored the Kneron's NPU module to learn the mechanism for running the AI inference model for automatic number plate detection algorithm.
-
-
-
+- Conducted code clean-up and resolved compiler warnings to enhance overall code stability and maintainable modular design.
+- Developed a Python script to fetch and track known vulnerabilities from the National Vulnerability Database (NVD) for a predefined list of software packages.
+- Set up and configured the Kneron Evaluation Kit (EVK), performed R&D on its multimedia framework, and created a custom application to stream 4 parallel video feeds via VLC.
+- Explored the Kneron NPU (Neural Processing Unit), gaining hands-on understanding of its AI inference pipeline by executing their test applications.
 
 ### 🔹 Embedded Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
@@ -45,15 +42,13 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 - Working as an independent developer to integrate/port the existing code from one product model to an upgraded product model having various peripheral changes. 
 
 
-
-
 ### 🔹 Embedded Associate Engineer - **Volansys Technologies ( An ACL Digital Company )**  
 
 📆 Jan 2022 – Jul 2023  
 
 - Developed real-time features/improvements in an automotive project based on FreeRTOS and IoT.
 - Gathered data from field tests and reports to troubleshoot the runtime technical issues in the on-field deployed devices. Documented changes made during the development process of new products.
-- Developed data reception mechanism over CAN, UART, and SPI  serial  interfaces  using  J1939,  RS235  protocols  as  well  as wireless protocols like BLE and Wi-Fi.
+- Developed data reception mechanism over CAN, UART, and SPI  serial  interfaces  using  J1939,  RS235  protocols  as  well  as wireless protocols like BLE.
 - Improved the product’s RTC feature by enabling various security mechanisms in STM32 FreeRTOS.
 
 
@@ -63,7 +58,8 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 📆 Jul 2021 – Jan 2022  
 
 - Developed strong organizational and time management skills by completing multiple tasks simultaneously.
-- Gained experience, exposure and knowledge of career- specific project procedures and organizational systems.
+- Collaborated with team for various tasks like - code cleanup , troubleshooting and debugging bugs , understanding existing code structure and developing new features etc.
+- Gained experience, exposure and knowledge of career-specific project procedures and organizational systems.
 - Gained practical experience with relevant software and technology like version control system and project management tools.
 - Collaborated effectively with team of trainees for knowledge sharing activities.
 - Presented research findings and project updates clearly and concisely to the larger team members. 
@@ -75,8 +71,6 @@ Experienced Embedded Firmware Engineer with over 4 years of proven expertise in 
 📆 Jan 2021 – Jul 2021  
 
 - As a part of a training program, gained the in-depth knowledge on Data Structures and algorithms, Socket Programming, FreeRTOS, Linux OS etc.
-
-
 
 
 ### 🔹 Research & Summer Intern - **eInfochips ( An Arrow Company )**  
