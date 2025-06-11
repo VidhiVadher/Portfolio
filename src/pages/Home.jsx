@@ -1,10 +1,11 @@
+import Mypic from "../../Assets/my_pic.jpeg"
 function Home() {
   return (
     <div className="p-6 space-y-12 bg-gray-100 min-h-screen">
       {/* Header Section */}
       <header className="text-center space-y-4">
         <img
-          src="/Assets/my_pic.jpeg" // Replace with the actual path to your photo
+          src={Mypic} // Replace with the actual path to your photo
           alt="Vidhi Vadher"
           className="mx-auto rounded-full w-32 h-32 border-4 border-blue-500 shadow-lg"
         />
