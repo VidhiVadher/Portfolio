@@ -1,4 +1,8 @@
 import { useNavigate } from 'react-router-dom';
+import BlockDaigram from "../../../Assets/Block_Diagram.png"
+import CircutDaigram from "../../../Assets/Circuit_Diagram.png"
+import PcbPlacement from "../../../Assets/PCB_Placements.png"
+import PcbSoldering from "../../../Assets/PCB_Soldering_Backside.png"
 
 function HeartbeatMonitoringSystem() {
   const navigate = useNavigate();
@@ -66,7 +70,7 @@ function HeartbeatMonitoringSystem() {
           <div>
             <h4 className="text-xl font-semibold text-gray-800">Block Diagram</h4>
             <img
-              src="/Assets/Block_Diagram.png"
+              src={BlockDaigram}
               alt="Block Diagram"
               className="w-full max-w-md mx-auto rounded-lg shadow-md"
             />
@@ -74,7 +78,7 @@ function HeartbeatMonitoringSystem() {
           <div>
             <h4 className="text-xl font-semibold text-gray-800">Circuit Diagram</h4>
             <img
-              src="/Assets/Circuit_Diagram.png"
+              src={CircutDaigram}
               alt="Circuit Diagram"
               className="w-full max-w-md mx-auto rounded-lg shadow-md"
             />
@@ -82,7 +86,7 @@ function HeartbeatMonitoringSystem() {
           <div>
             <h4 className="text-xl font-semibold text-gray-800">PCB Component Placement Diagram</h4>
             <img
-              src="/Assets/PCB_Placements.png"
+              src={PcbPlacement}
               alt="PCB Component Placement Diagram"
               className="w-full max-w-md mx-auto rounded-lg shadow-md"
             />
@@ -90,7 +94,7 @@ function HeartbeatMonitoringSystem() {
           <div>
             <h4 className="text-xl font-semibold text-gray-800">PCB Component Soldering Diagram</h4>
             <img
-              src="/Assets/PCB_Soldering_Backside.png"
+              src={PcbSoldering}
               alt="PCB Component Soldering Diagram"
               className="w-full max-w-md mx-auto rounded-lg shadow-md"
             />

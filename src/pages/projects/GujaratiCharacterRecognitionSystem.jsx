@@ -1,5 +1,10 @@
 import { useNavigate } from 'react-router-dom';
 
+import Flowchart from "../../../Assets/Flow_chart.png"
+import DatabseImg from "../../../Assets/Databse_image.png"
+import Extracted from "../../../Assets/Extracted_images.png"
+import ResultDetectd from "../../../Assets/Resultant_Detected_characters.png"
+
 function GujaratiCharacterRecognitionSystem() {
   const navigate = useNavigate();
   return (
@@ -68,19 +73,19 @@ function GujaratiCharacterRecognitionSystem() {
         <ul className="list-disc pl-6 mt-4 space-y-4 text-gray-700 text-lg">
           <li>
             Flowchart of OCR Pipeline:
-            <img src="/Assets/Flow_chart.png" alt="Flowchart of OCR Pipeline" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
+            <img src={Flowchart} alt="Flowchart of OCR Pipeline" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
           </li>
           <li>
             Character Dataset:
-            <img src="/Assets/Databse_image.png" alt="Character Dataset" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
+            <img src={DatabseImg} alt="Character Dataset" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
           </li>
           <li>
             Character Extraction:
-            <img src="/Assets/Extracted_images.png" alt="Character Extraction" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
+            <img src={Extracted} alt="Character Extraction" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
           </li>
           <li>
             Resultant Output:
-            <img src="/Assets/Resultant_Detected_characters.png" alt="Resultant Output" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
+            <img src={ResultDetectd} alt="Resultant Output" className="mt-2 rounded-lg shadow-md w-full max-w-3xl mx-auto" />
           </li>
         </ul>
       </section>

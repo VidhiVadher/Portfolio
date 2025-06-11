@@ -1,4 +1,5 @@
 import { useNavigate } from 'react-router-dom';
+import AirBox from "../../../Assets/AirBoxOne_Product.png"
 
 function AutonomousVehicleMonitoringSystem() {
   const navigate = useNavigate();
@@ -14,7 +15,7 @@ function AutonomousVehicleMonitoringSystem() {
         </button>
         <h1 className="text-5xl font-extrabold text-gray-800">🚀 Autonomous Vehicle Monitoring System</h1>
         <img
-          src="/Assets/AirBoxOne_Product.png"
+          src={AirBox}
           alt="Autonomous Vehicle Monitoring System"
           className="mx-auto rounded-lg w-full max-w-3xl border-4 border-blue-500 shadow-lg"
         />
