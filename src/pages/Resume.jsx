@@ -1,8 +1,17 @@
+import { useNavigate } from 'react-router-dom';
+
 function Resume() {
+    const navigate = useNavigate();
   return (
     <div className="p-6 space-y-12 bg-gray-100 min-h-screen">
       {/* Header Section */}
       <header className="text-center space-y-4">
+      <button
+          onClick={() => navigate('/')}
+          className="absolute top-4 left-4 text-blue-500 hover:text-blue-700"
+        >
+          ⬅️ Back
+        </button>
         <h1 className="text-5xl font-extrabold text-gray-800">👩‍💼 Vidhi Vadher</h1>
         <h2 className="text-2xl text-blue-600">Embedded Firmware Engineer</h2>
         <p className="text-gray-700 text-lg">📍 Bhavnagar, Gujarat, India</p>
